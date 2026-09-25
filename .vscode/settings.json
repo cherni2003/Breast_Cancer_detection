@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./backend",
+        "./backend/Mammo-CLIP/src/codebase",
+        "./Mammo-CLIP/src/codebase"
+    ]
+}
